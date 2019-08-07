@@ -10,8 +10,11 @@
 6. 打开终端：依次输入以下3行代码：每行结束按回车键
 
 cd github
+
 git remote add origin https://github.com/panzhang0628/livia_file.git （连接处放入第5步自己的链接）
+
 git push -u origin master
+
 
 然后输入github用户名密码
 出现下面代码，说明成功。
